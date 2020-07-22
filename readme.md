@@ -1,0 +1,10 @@
+This
+is
+a
+java
+application
+for
+A
+student
+management
+system
